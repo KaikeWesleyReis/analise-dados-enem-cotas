@@ -4,6 +4,7 @@
 
 ## Análise
 - **Tema** - Programa de Cotas no ingresso ao ensino superior na Bahia
+- **Resultados da análise** - Acesse o material da oficina na pasta [apresentacao](https://github.com/KaikeWesleyReis/analise-dados-enem-cotas/tree/main/apresentacao)
 - **Questionamentos** - Considerando os fatores de Autodeclaração de cor/raça, Sexo, Tipo de Escola, Renda Familiar, Escolaridade Parental e Possuir computador em casa em relação a Nota Ponderada no exame:
   - Quais fatores mais podem impactar na nota final?
   - Qual o impacto das cotas no perfil dos estudantes ingressos?
